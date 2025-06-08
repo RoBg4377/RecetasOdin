@@ -1,1 +1,1 @@
-# RecetasOdin
+# RecetasOdin: Es un ejercicio donde practicaré HTML y progresivamente otros lenguajes
