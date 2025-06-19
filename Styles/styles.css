@@ -6,23 +6,23 @@
 body{
     background-color: #3B060A;
     color: #FFF287;
+    font-family: Arial, Helvetica, sans-serif;
 }
 h1, h2{
     text-align: center;
     margin: 20px;
 }
-h2{
-    margin: 15px; 
-}
+
 .recetas li{
     list-style-type: none;
-    font-size: 30px;
+    font-size: 25px;
+
 }
 ul, ol{
     background-color: #C83F12;
     width: 30%;
     margin: 30px auto;
-    padding: 50px;
+    padding: 60px;
     font-size: 20px;
     border: solid 4px #8A0000;
 }
@@ -30,14 +30,18 @@ a{
     text-decoration: none;
     color: inherit;
 }
+a:hover {
+    color: #3B060A;
+    font-size: 28px;
+}
 .inicio{
     margin:0 30px;
     font-size: 20px;
     font-weight: bolder;
 }
-.img{
-    
-    width: auto;
-    height:400px;
-    margin: 50px 25%;
+.imagen{
+    border: #C83F12 solid 4px;
+    width: 600px;
+    margin: 50px auto;
+    overflow: hidden;;
 }
